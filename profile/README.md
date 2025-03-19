@@ -1,5 +1,5 @@
 ![Open Source at Devchoco](https://github.com/DevChoco/.github/blob/main/profile/img/d1.png) 
-## Hi there 👋
+## Hi 👋
 <!--  
 
 **Here are some ideas to get you started:**

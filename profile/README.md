@@ -1,12 +1,8 @@
 ![Open Source at Devchoco](https://github.com/DevChoco/.github/blob/main/profile/img/d1.png) 
-## Hi 👋
-<!--  
 
-**Here are some ideas to get you started:**
-    
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 방향성
+홍보 콘텐츠 촬영은 많은 자원과 비용을 소모하는 과정입니다. 이를 개선하기 위해, 저희는 혁신적인 이미지 합성 기술을 활용하여 기존 콘텐츠 제작 방식을 획기적으로 변화시키는 방법을 연구하고 있습니다.
+
+------
+### Research Focus
+Promotional content production consumes a significant amount of resources and costs. To address this, we are researching innovative image synthesis technologies to revolutionize traditional Promotional content production methods.

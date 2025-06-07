@@ -6,12 +6,22 @@
 
 ## 📌 프로젝트 소개 | Project Introduction
 
+#### 2025 ~ now
 - 🔗 [FItVerse (KR)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse.md) | [FItVerse (EN)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse_EN.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;Virtual Try-On Web/App Project (가상 피팅 Web/App 프로젝트)
 
 - 🔗 [VIANS](https://github.com/DevChoco/.github/blob/main/profile/project/2025_VIANS.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;Video-Image Analysis and Synthesis: A Research in 2025
 
+#### 2024
+- 🔗 [2024.YC.DAC](https://github.com/kimsehyun-34/2024.YC.DAC_Ver-1.0)  
+  &nbsp;&nbsp;&nbsp;&nbsp; 2024.YC.DAC_Ver-1.0 - 2024년 영주시 데이터 분석공모전 (입상작)
+
+- 🔗 [2024_Cheonan_Data_Contest](https://github.com/kimsehyun-34/2024_Cheonan_Data_Contest)  
+  &nbsp;&nbsp;&nbsp;&nbsp; 2024_Cheonan_Data_Contest - 2024년 천안시 데이터 분석공모전
+
+- 🔗 [DIVE_2024_BUSAN](https://github.com/kimsehyun-34/DIVE_2024_BUSAN)  
+  &nbsp;&nbsp;&nbsp;&nbsp; DIVE_2024_BUSAN - 2024년 부산 글로벌해커톤 대회
 ---
 
 ## 🔬 연구 및 개발 방향

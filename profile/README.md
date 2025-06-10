@@ -3,7 +3,8 @@
 </p>
 
 ---
-
+## - 🔗 [DevChoco 팀소개](https://devchoco.github.io/DevChoco_Web/)  
+---
 ## 📌 프로젝트 소개 | Project Introduction
 
 #### 2025 ~ now
@@ -23,7 +24,6 @@
 - 🔗 [DIVE_2024_BUSAN](https://github.com/kimsehyun-34/DIVE_2024_BUSAN)  
   &nbsp;&nbsp;&nbsp;&nbsp; DIVE_2024_BUSAN - 2024년 부산 글로벌해커톤 대회
 ---
-
 ## 🔬 연구 및 개발 방향
 
 - 저희 팀은 컴퓨터 비전 기술을 기반으로, 영상과 이미지 속에 존재하는 객체를 정확하게 탐지하고 정밀하게 분리/합성 하는 기술을 연구하고 있습니다.  

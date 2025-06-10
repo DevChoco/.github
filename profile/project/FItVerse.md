@@ -14,6 +14,10 @@
 
 ## 🧪 Virtual Try-On 테스트 예시
 <p align="center">
-  <img src="https://github.com/DevChoco/.github/blob/main/profile/img/FItVerse/t1.png" width="220" style="margin: 0 10px;"/> --->
-  <img src="https://github.com/DevChoco/.github/blob/main/profile/img/FItVerse/t1_o.png" width="220" style="margin: 0 10px;"/>
+  <img src="https://github.com/DevChoco/.github/blob/main/profile/img/FItVerse/t2.png" width="700" style="margin: 0 10px;"/>
+</p> <p align="center"><i>왼쪽: 원본 이미지 / 오른쪽: 합성된 착용 이미지</i></p>
+
+<p align="center">
+  <img src="https://github.com/DevChoco/.github/blob/main/profile/img/FItVerse/t1.png" width="300" style="margin: 0 10px;"/> --->
+  <img src="https://github.com/DevChoco/.github/blob/main/profile/img/FItVerse/t1_o.png" width="300" style="margin: 0 10px;"/>
 </p> <p align="center"><i>왼쪽: 원본 이미지 / 오른쪽: 합성된 착용 이미지</i></p>

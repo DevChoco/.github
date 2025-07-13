@@ -8,6 +8,9 @@
 ## 📌 프로젝트 소개 | Project Introduction
 
 #### 2025 ~ now
+- 🔗 [LIPFA (KR)](https://github.com/DevChoco/LIPF/tree/main) | [LIPFA (EN)](https://github.com/DevChoco/LIPF/tree/main)  
+  &nbsp;&nbsp;&nbsp;&nbsp; Project : Learning Inpainted Pre-Flows in Attention (virtual_tryon model)
+
 - 🔗 [FItVerse (KR)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse.md) | [FItVerse (EN)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse_EN.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;Virtual Try-On Web/App Project (가상 피팅 Web/App 프로젝트)
 

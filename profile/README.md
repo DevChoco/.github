@@ -19,7 +19,7 @@
 
 #### 2024
 - 🔗 [2024.YC.DAC](https://github.com/kimsehyun-34/2024.YC.DAC_Ver-1.0)  
-  &nbsp;&nbsp;&nbsp;&nbsp; 2024.YC.DAC_Ver-1.0 - 2024년 영주시 데이터 분석공모전 (입상작)
+  &nbsp;&nbsp;&nbsp;&nbsp; 2024.YC.DAC_Ver-1.0 - 2024년 영주시 데이터 분석공모전 (입상)
 
 - 🔗 [2024_Cheonan_Data_Contest](https://github.com/kimsehyun-34/2024_Cheonan_Data_Contest)  
   &nbsp;&nbsp;&nbsp;&nbsp; 2024_Cheonan_Data_Contest - 2024년 천안시 데이터 분석공모전

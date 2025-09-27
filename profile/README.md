@@ -8,8 +8,8 @@
 ## 📌 프로젝트 소개 | Project Introduction
 
 #### 2025 ~ now
-- 🔗 [VIONE](https://github.com/DevChoco/VIONE)</br>
-  &nbsp;&nbsp;&nbsp;&nbsp; Project : VIONE. Virtual Try-on Model independent on input images: Ensemble Model with pre-inpainting
+- 🔗 [CAP-VTON](https://github.com/DevChoco/CAP-VTON)</br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Project : CaP-VTON. Clothing agnostic Pre-inpainting Virtual Try-ON
 
 - 🔗 [FItVerse (KR)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse.md) | [FItVerse (EN)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse_EN.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;Virtual Try-On Web/App Project (가상 피팅 Web/App 프로젝트)

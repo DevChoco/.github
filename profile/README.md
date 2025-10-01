@@ -8,7 +8,7 @@
 ## 📌 프로젝트 소개 | Project Introduction
 
 #### 2025 ~ now
-- ⌛ **3D_Body_Posture_Analysis** </br>
+- ⌛ [3D_Body_Posture_Analysis](https://github.com/kimsehyun-34/3D_Body_Posture_Analysis) </br>
   &nbsp;&nbsp;&nbsp;&nbsp; Project : 3D Body Alignment, Skeleton Detection, and Pose Adjustment Using Multi-view Depth Map Images
 
 - 🔗 [CAP-VTON](https://github.com/DevChoco/CAP-VTON)</br>

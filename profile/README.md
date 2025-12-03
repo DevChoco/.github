@@ -8,7 +8,7 @@
 ## 📌 프로젝트 소개 | Project Introduction
 
 #### 2025 ~ now
-- ⌛ **3D_Body_Posture_Analysis** </br>
+- 🔗 [Spinal Line Detection for Posture Evaluation through Train-ing-free 3D Human Body Reconstruction with 2D Depth Images](https://github.com/DevChoco/STRIDE) </br>
   &nbsp;&nbsp;&nbsp;&nbsp; Project : 3D Body Alignment, Skeleton Detection, and Pose Adjustment Using Multi-view Depth Map Images
 
 - 🔗 [CAP-VTON](https://github.com/DevChoco/CAP-VTON)</br>

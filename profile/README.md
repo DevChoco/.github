@@ -1,3 +1,5 @@
+## 우리는 영원한 DevChoco 입니다. 🙌 
+
 <p align="center">
   <img src="https://github.com/DevChoco/.github/blob/main/profile/img/d1.png" alt="Open Source at Devchoco"/>
 </p>
@@ -7,7 +9,7 @@
 ---
 ## 📌 프로젝트 소개 | Project Introduction
 
-#### 2025 ~ now
+#### 2025
 - 🔗 [Spinal Line Detection for Posture Evaluation through Train-ing-free 3D Human Body Reconstruction with 2D Depth Images](https://github.com/DevChoco/TF3D_SpineDetect) </br>
   &nbsp;&nbsp;&nbsp;&nbsp; Project : 3D Body Alignment, Skeleton Detection, and Pose Adjustment Using Multi-view Depth Map Images
 

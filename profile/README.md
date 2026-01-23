@@ -4,10 +4,14 @@
   <img src="https://github.com/DevChoco/.github/blob/main/profile/img/d1.png" alt="Open Source at Devchoco"/>
 </p>
 
----
+
 ## - 🔗 [DevChoco 팀소개](https://devchoco.github.io/DevChoco_Web/)  
 ---
 ## 📌 프로젝트 소개 | Project Introduction
+
+#### 2026 ~ 
+ - 🔗 [3D_Body_Posture_Analysis_Part](https://github.com/DevChoco/3D_Body_Posture_Analysis_Part) </br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Project : 3D Body 복원 & 정합분석
 
 #### 2025
 - 🔗 [Spinal Line Detection for Posture Evaluation through Train-ing-free 3D Human Body Reconstruction with 2D Depth Images](https://github.com/DevChoco/TF3D_SpineDetect) </br>
@@ -17,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp; Project : CaP-VTON. Clothing agnostic Pre-inpainting Virtual Try-ON
 
 - 🔗 [FItVerse (KR)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse.md) | [FItVerse (EN)](https://github.com/DevChoco/.github/blob/main/profile/project/FItVerse_EN.md)  
-  &nbsp;&nbsp;&nbsp;&nbsp;Virtual Try-On Web/App Project (가상 피팅 Web/App 프로젝트)
+  &nbsp;&nbsp;&nbsp;&nbsp;Virtual Try-On Web Project (가상 피팅 Web 프로젝트)
 
 - 🔗 [VIANS](https://github.com/DevChoco/.github/blob/main/profile/project/2025_VIANS.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;Video-Image Analysis and Synthesis: A Research in 2025
@@ -32,6 +36,7 @@
 - 🔗 [DIVE_2024_BUSAN](https://github.com/kimsehyun-34/DIVE_2024_BUSAN)  
   &nbsp;&nbsp;&nbsp;&nbsp; DIVE_2024_BUSAN - 2024년 부산 글로벌해커톤 대회
 ---
+
 ## 🔬 연구 및 개발 방향
 
 - 저희 팀은 컴퓨터 비전 기술을 기반으로, 영상과 이미지 속에 존재하는 객체를 정확하게 탐지하고 정밀하게 분리/합성 하는 기술을 연구하고 있습니다.  
@@ -45,3 +50,4 @@
 - Through this, we aim to develop advanced algorithms capable of object generation, modification, and editing,  ultimately building intelligent visual processing systems that can be applied to real-world industrial settings.
 
 ---
+
